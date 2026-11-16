@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.25.0](https://github.com/sidorares/node-mysql2/compare/v3.24.6...v3.25.0) (2026-11-16)
+
+
+### Features
+
+* expand an object marked in placeholders ([#4669](https://github.com/sidorares/node-mysql2/issues/4669)) ([f0feca2](https://github.com/sidorares/node-mysql2/commit/f0feca211bcb5d63b3dc9c25fba875e7bbe50ab5))
+
 ## [3.24.6](https://github.com/sidorares/node-mysql2/compare/v3.24.5...v3.24.6) (2026-10-13)
 
 
